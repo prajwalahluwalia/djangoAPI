@@ -1,4 +1,4 @@
-from dataclasses import field
+#this is serializer
 from rest_framework import serializers
 from apiApp.models import Course
 
